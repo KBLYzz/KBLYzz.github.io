@@ -2591,7 +2591,6 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: transparent;
 		background-attachment: scroll,								scroll;
 		background-image: url("../../images/bbg.jpg");
 		background-position: top left,							top left;
@@ -3077,7 +3076,6 @@ input, select, textarea {
 
 			#footer {
 				background-attachment: scroll;
-				background-color: transparent;
 				background-image: url("../../images/bbg.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
